@@ -1,4 +1,4 @@
-# python把这个网页"https://github.com/pluwen/awesome-testflight-link" 里Available状态位Full和yes的类似/join/QN934ULR后面的8位邀请码输出
+# python把这个网页"https://github.com/pluwen/awesome-testflight-link" 里Available状态位Full和yes的类似/join/QN934ULR后面的8位邀请码输出,配合qx适用
 
 import requests
 from bs4 import BeautifulSoup
