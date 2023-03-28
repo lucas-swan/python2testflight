@@ -23,5 +23,5 @@
 4. 结合以下网址python自动获取testflight邀请码填入boxjs
     >https://github.com/pluwen/awesome-testflight-link
 5. 补充testflight邀请码
-    1. 微信键盘:
-    2. 京东云:
+    1. 微信键盘:iSTXkF4K
+    2. 京东云:tQyd1h4T
