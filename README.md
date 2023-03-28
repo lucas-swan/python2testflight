@@ -25,3 +25,5 @@
 5. 补充testflight邀请码
     1. 微信键盘:iSTXkF4K
     2. 京东云:tQyd1h4T
+    3. code :EgZ8sE2P
+    4. pharos lite:NIAeJnvW
